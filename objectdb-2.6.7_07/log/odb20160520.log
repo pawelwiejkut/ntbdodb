@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2016-05-20 12:48:34 #1 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 10212@DESKTOP-GM0IC
+
+[2016-05-20 12:48:44 #2 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 10212@DESKTOP-GM0IC
+
+[2016-05-20 12:48:44 #3 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 10212@DESKTOP-GM0IC
+
+[2016-05-20 12:49:08 #4 type.registry] 
+New type javax.persistence.Tuple
+
+[2016-05-20 12:52:16 #5 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 10212@DESKTOP-GM0IC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2016-05-20 13:03:10 #1 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 3220@DESKTOP-GM0IC
+
+[2016-05-20 13:03:30 #2 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 3220@DESKTOP-GM0IC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2016-05-20 13:33:59 #1 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 220@DESKTOP-GM0IC
+
+[2016-05-20 13:34:42 #2 type.registry] 
+New type java.lang.Object[]
+
+[2016-05-20 13:45:23 #3 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 220@DESKTOP-GM0IC
+
+[2016-05-20 14:00:29 #4 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 220@DESKTOP-GM0IC
+
+[2016-05-20 14:01:15 #5 type.registry] 
+New type javax.persistence.Tuple
+
+[2016-05-20 14:20:36 #6 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 220@DESKTOP-GM0IC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2016-05-20 15:07:51 #1 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 10440@DESKTOP-GM0IC
+
+[2016-05-20 15:12:51 #2 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 10440@DESKTOP-GM0IC
+
+[2016-05-20 15:16:14 #3 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 10440@DESKTOP-GM0IC
+
+[2016-05-20 15:27:43 #4 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 10440@DESKTOP-GM0IC
+
+[2016-05-20 15:28:00 #5 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is opened by 10440@DESKTOP-GM0IC
+
+[2016-05-20 15:28:20 #6 store] 
+Database 'C:\Users\pawelwiejkut\.m2\db\points.odb' is closed by 10440@DESKTOP-GM0IC
+
